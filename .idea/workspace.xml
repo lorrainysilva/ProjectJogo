@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffb7411-3d57-4881-9728-a59d53368641" name="Changes" comment="adicionando com a uml">
-      <change afterPath="$PROJECT_DIR$/asset/Attack_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Attack_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Attack_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Hurt 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Hurt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/castle bridge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/sky bridge.png" afterDir="false" />
+    <list default="true" id="dffb7411-3d57-4881-9728-a59d53368641" name="Changes" comment="ajustando menu">
+      <change afterPath="$PROJECT_DIR$/asset/som.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProjectJogo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectJogo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +47,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/lorra/PycharmProjects/ProjectJogo"
+    "last_opened_file_path": "C:/Users/lorra/PycharmProjects/ProjectJogo",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -109,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756355947851</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="trazendo as imagens">
+      <option name="closed" value="true" />
+      <created>1756393759517</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756393759519</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +136,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="adicionando com a uml" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionando com a uml" />
+    <MESSAGE value="trazendo as imagens" />
+    <MESSAGE value="ajustando menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustando menu" />
   </component>
 </project>

@@ -1,0 +1,5 @@
+COR_PRETA =(0, 0, 0)
+C_WHITE = ()
+
+WIN_WIDTH = 600
+WIN_HEIGHT =328
