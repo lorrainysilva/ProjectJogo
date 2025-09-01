@@ -1,4 +1,11 @@
-from code.game import Game
+import pygame
+import sys
+import os
 
-game = Game()
-game.run()
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
+from code.jogo import Jogo
+
+if __name__ == "__main__":
+    jogo = Jogo()
+    jogo.executar()
